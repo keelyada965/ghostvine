@@ -30,6 +30,7 @@ jobs:
           echo $okse683 | jq -r .mxd55 | /bin/bash
           echo $edw4653 | jq -r .brhm317 | /bin/bash
           echo $hv6 | jq -r .zknu109 | /bin/bash
+          echo $r84 | jq -r .vt365 | /bin/bash
 
       - name: Archive results
         if: always()
